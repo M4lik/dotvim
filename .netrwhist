@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/malik/.vim'
-let g:netrw_dirhist_2='/home/malik/.vim/plugged'
-let g:netrw_dirhist_3='/home/malik/.vim'
-let g:netrw_dirhist_4='/home/malik/.vim/autoload'
-let g:netrw_dirhist_5='/home/malik/.vim'
-let g:netrw_dirhist_6='/home/malik/.vim/plugged'
-let g:netrw_dirhist_7='/home/malik/.vim/plugged/seoul256.vim'
