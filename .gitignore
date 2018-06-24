@@ -4,4 +4,5 @@ Session.vim
 # Temporary
 .netrwhist
 
-
+# Don't track plugins
+plugged
